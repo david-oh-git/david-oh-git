@@ -6,7 +6,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](<on click url>)
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=david-oh-git)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-oh-git&hide=TeX&layout=compact)
 
 
 
